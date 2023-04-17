@@ -1,3 +1,3 @@
 # Article
 
-Please host the drafts and all the materials, including the final version, related to your article in this folder.
+https://www.linkedin.com/pulse/embedding-machine-learning-model-graphical-user-interface-kwakye/?published=t
